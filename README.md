@@ -1,4 +1,4 @@
-# CNN in Python
+# Convolutional Neural Network (CNN)
 Python implementation of Convolutional Neural Network (CNN) for image classification.
 
 
