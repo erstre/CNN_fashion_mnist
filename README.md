@@ -9,7 +9,7 @@ Convolutional layers apply a set of filters to an input image to create a featur
 
 CNNs have proven to be very effective in many image recognition and computer vision tasks, such as object detection, facial recognition, and image segmentation. They have also been applied to other types of data, such as speech and natural language processing.
 
-In this project, we employ a CNN architecture for the problem of image classification on the [Fashion-MNIST dataset](https://keras.io/api/datasets/fashion_mnist/). Specifically this Python code:
+In this project, we employ a CNN architecture for the problem of image classification on the [Fashion-MNIST dataset](https://keras.io/api/datasets/fashion_mnist/). Specifically this code:
 
 - Constructs a CNN architecture using TensorFlow and Keras.
 - It trains the model on Fashion-MNIST dataset.
