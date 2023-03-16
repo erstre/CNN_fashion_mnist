@@ -23,6 +23,11 @@ The following software needs to be installed.
 - Python
 - TensorFlow
 
+For executing the code run the following command:
+```bash
+python3 fashion_cnn.py
+```
+
 ## Authors
 
 [Errikos Streviniotis](https://www.linkedin.com/in/errikos-streviniotis/)
