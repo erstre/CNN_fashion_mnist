@@ -1,6 +1,7 @@
 # Convolutional Neural Network (CNN)
 Python implementation of Convolutional Neural Network (CNN) for image classification.
 
+![ScreenShot](https://user-images.githubusercontent.com/128051856/225868487-07994af1-14c0-4853-b018-5e4497071fc6.png)
 
 ## Description
 [Convolutional Neural Network (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network) are designed to automatically and adaptively learn spatial hierarchies of features from input images by using convolutional layers, pooling layers, and fully connected layers.
